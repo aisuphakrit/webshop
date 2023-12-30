@@ -6,7 +6,7 @@
 				<input type="text" placeholder="ชื่อผู้ใช้" class="input input-bordered max-w-xs" />
                 <input type="password" placeholder="รหัสผ่าน" class="input input-bordered max-w-xs" />
                 <button class="btn">ลงชื่อเข้าใช้</button>
-                <a href="#" class="text-sm">ลืมรหัสผ่าน?</a>
+                <a href="/recovery" class="text-sm">ลืมรหัสผ่าน?</a>
 			</form>
 		</div>
 	</div>
