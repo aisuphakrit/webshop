@@ -22,7 +22,7 @@
 				<li>
 					<a href="/topup">เติมเงิน</a>
 					<ul class="p-2">
-						<li><a href="/angpao">ซองอังเปา</a></li>
+						<li><a href="/gift">ซองอั่งเปา</a></li>
 						<li><a href="/qrcode">คิวอาร์โค้ด</a></li>
 					</ul>
 				</li>
@@ -40,7 +40,7 @@
 				<details>
 					<summary>เติมเงิน</summary>
 					<ul class="p-2 w-36">
-						<li><a href="/angpao">ซองอังเปา</a></li>
+						<li><a href="/gift">ซองอั่งเปา</a></li>
 						<li><a href="/qrcode">คิวอาร์โค้ด</a></li>
 					</ul>
 				</details>
