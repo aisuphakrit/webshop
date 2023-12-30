@@ -27,7 +27,7 @@
 					</ul>
 				</li>
 				<li><a href="#">สินค้าและบริการ</a></li>
-				<li><a href="#" class="btn btn-sm mb-1">สมัครสมาชิก</a></li>
+				<li><a href="#" class="btn btn-sm mb-1 mt-2">สมัครสมาชิก</a></li>
 				<li><a href="#" class="btn btn-sm mt-1">ลงชื่อเข้าใช้</a></li>
 			</ul>
 		</div>
@@ -48,8 +48,8 @@
 			<li><a href="#">สินค้าและบริการ</a></li>
 		</ul>
 	</div>
-    <div class="navbar-end hidden lg:flex">
-        <a href="#" class="btn mr-1">สมัครสมาชิก</a>
-        <a href="#" class="btn ml-1">ลงชื่อเข้าใช้</a>
-    </div>
+	<div class="navbar-end hidden lg:flex">
+		<a href="#" class="btn mr-1">สมัครสมาชิก</a>
+		<a href="#" class="btn ml-1">ลงชื่อเข้าใช้</a>
+	</div>
 </div>
