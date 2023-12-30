@@ -31,7 +31,7 @@
 				<li><a href="/login" class="btn btn-sm mt-1">ลงชื่อเข้าใช้</a></li>
 			</ul>
 		</div>
-		<button class="btn btn-ghost text-xl">Template</button>
+		<a href="/" class="btn btn-ghost text-xl">Template</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
